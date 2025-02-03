@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bd6e596a5a989c4d8391b1457c00971, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  HasIntro: 1
+  IntroScene:
+    sceneAsset: {fileID: 102900000, guid: b6cf8b60580842541a10feda698c796d, type: 3}
+    scenePath: Collecticon/Assets/Scenes/Levels/Level 1/Level 1 - Intro
+  LevelScene:
+    sceneAsset: {fileID: 102900000, guid: a068098bd1cf79d409e3774116bd2399, type: 3}
+    scenePath: Collecticon/Assets/Scenes/Levels/Level 1/Level 1-1

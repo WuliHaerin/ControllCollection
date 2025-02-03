@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Main Menu.unity
+    guid: f2cb645cb357ec8479440e2a5336bf22
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Level Selection.unity
+    guid: b3aead8347aa3744681cc9f745ea4df6
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 1 - Intro.unity
+    guid: b6cf8b60580842541a10feda698c796d
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 1.unity
+    guid: a068098bd1cf79d409e3774116bd2399
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 2.unity
+    guid: d6ae12789ec87814cbaba38335dcc942
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 3.unity
+    guid: f0d98fb6ee280d946bfcae09d27167dd
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 4 - Intro.unity
+    guid: 83def146b169a2347afddf560857224b
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 4.unity
+    guid: f83d41f7ef855bb49b098e756f0f548b
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 5.unity
+    guid: 6107685cc5864e040964f060ecc396c3
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 6.unity
+    guid: 06b209353d3b84743855eeb75310518b
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 7.unity
+    guid: 24e7244477454cd4f917b9139e756ede
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 8.unity
+    guid: d95b531b1f0a78843a1a44f8365205e9
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 9.unity
+    guid: eacc3d4a8434a9a408ceb258744c2562
+  - enabled: 1
+    path: Assets/Ilumisoft/Collecticon/Scenes/Levels/Level 10.unity
+    guid: 20a2dd567e8716a4d849be4b7a003111
+  m_configObjects: {}

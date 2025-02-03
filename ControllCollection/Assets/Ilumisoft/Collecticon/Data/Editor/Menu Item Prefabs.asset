@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a01eee948316b48830f6fdbcb4a2d3, type: 3}
+  m_Name: Menu Item Prefabs
+  m_EditorClassIdentifier: 
+  BoundaryLinePrefab: {fileID: 8096641591482120448, guid: 50a5d06822362b548a464bbe1a7d9504,
+    type: 3}
+  DataToken: {fileID: 1572226528911786297, guid: 8c97fd947bf309f44b7c657180c21b2e,
+    type: 3}
+  Finish: {fileID: 877703556694797901, guid: a4868d9379c01564fbb4cddd30ba14ce, type: 3}
+  GatePrefab: {fileID: 3153940622420502175, guid: 1d9a7131ba04675488d17fae8b302b35,
+    type: 3}
+  Seeker: {fileID: 8961641917263046559, guid: 90d6107cdc16d3f4e87701d01de01f82, type: 3}
